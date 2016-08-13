@@ -8,8 +8,7 @@
   "author": "",
   "license": "BSD-2-Clause",
   "dependencies": {
-    "csv-parser": "^1.9.3",
-    "lodash": "~4.13.1"
+    "mnist": "^1.0.5"
   },
   "devDependencies": {},
   "description": ""
