@@ -14,7 +14,7 @@ fs.readFile('./network.json', function (err, data) {
     var jsonData;
 
     if (err) {
-        console.log(err);
+        return console.log(err);
     }
 
     jsonData = JSON.parse(data);
